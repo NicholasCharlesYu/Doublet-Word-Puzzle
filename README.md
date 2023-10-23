@@ -31,3 +31,7 @@ Run the program with the following command:
 
 ./doublet [START_WORD] [END_WORD] [WORD_LIST_FILE]
 - WORD_LIST_FILE refers to /doublet_tests/words
+
+-The program will output the minimum steps required to transform the starting word to the ending word, followed by the number of expansions:
+[STEPS]
+[EXPANSIONS]
